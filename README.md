@@ -41,7 +41,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 **欢迎来到 [LC-Github](https://github.com/ahviplc)**
 
-**欢迎来到 [LC-Github-pythonLCDemo](https://github.com/ahviplc/pythonLCDemo)**
+**欢迎来到 [LC-Github-vueDemoByLC](https://github.com/ahviplc/vueDemoByLC)**
 
 > ### LC最寄语：永远不要放弃自己心中最初的最初的理想！~LC
 
