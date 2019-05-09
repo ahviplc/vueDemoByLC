@@ -80,6 +80,17 @@
         </a>
       </li>
     </ul>
+
+    <h2>一加壹博客最Top-一起共创1+1>2的力量！~LC</h2>
+    <ul>
+      <li>
+        <a href="http://www.oneplusone.vip/index.html" target="_blank"> 一加壹博客最Top-一起共创1+1>2的力量！~LC</a>
+      </li>
+      <li>
+        <a href="http://lc.oneplusone.vip/donateMeByLC.html" target="_blank"> donate me</a>
+      </li>
+    </ul>
+
   </div>
 </template>
 
