@@ -30,8 +30,25 @@ npm run e2e
 # run all tests
 npm test
 ```
+# 学习笔记：
+父子组件通信
 
-其他配置说明:
+父到子: props
+
+子到父：emit Event
+
+数据传递类型限制(验证)
+  
+    数据类型验证 
+    多数据类型验证 
+    必选项 
+    默认值 
+    obj,ARR数据类型的默认值
+
+this is all
+    
+
+# 其他配置说明:
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
